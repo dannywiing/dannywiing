@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Tint&weight=800&pause=20000&color=F7F7F7&width=435&lines=Hi.+I'm+Danny++%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hi%2C+I'm+Danny+%F0%9F%91%8B)](https://git.io/typing-svg)
 🎓 I'm a Computer Engineering student at Linnaeus University  <br>
 🛠️ Currently working on: networks, Java apps, and full-stack web development <br>
 💡 I enjoy solving problems, building tech, and creating clean user experiences 
