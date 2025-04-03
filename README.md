@@ -4,7 +4,7 @@
 💡 I enjoy solving problems, building tech, and creating clean user experiences 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danny-nguyen-54b4b1305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-nguyen-54b4b1305/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://dannywiing.github.io/Portfolio/)
 
 # 💻 Tech Stack
